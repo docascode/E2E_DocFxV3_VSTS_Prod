@@ -2,7 +2,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "E2E_DocFxV3_VSTS_Prod",
-      "build_source_folder": "E2E_DocFxV3_VSTS_Prod",
+      "build_source_folder": ".",
       "build_output_subfolder": "E2E_DocFxV3_VSTS_Prod",
       "locale": "en-us",
       "monikers": [],
