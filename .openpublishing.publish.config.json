@@ -20,6 +20,7 @@
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
+  "resolve_user_profile_using_github": true,
   "git_repository_url_open_to_public_contributors": "https://github.com/docascode/E2E_DocFxV3_VSTS_Prod",
   "git_repository_branch_open_to_public_contributors": "contribution-test",
   "skip_source_output_uploading": false,
